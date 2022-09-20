@@ -4,6 +4,7 @@ Class SampleCode{
  
     System.out.println("Sample code");
 	System.out.println("Added new Code");
+	 System.out.println("Other developer added some code");
 
 }
 
